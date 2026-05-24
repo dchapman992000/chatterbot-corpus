@@ -11,15 +11,12 @@ dialog data that can be used to train chat bots to communicate.
    :maxdepth: 2
    :caption: Contents:
 
+   installation
+   usage
    data
-
-Using the ChatterBot Corpus with ChatterBot
-+++++++++++++++++++++++++++++++++++++++++++
-
-If you are looking for information on how to
-use the ``chatterbot-corpus`` module with your
-chat bot build with ChatterBot, then you will
-want to take a look at the `ChatterBot Documentation`_
+   languages
+   api
+   contributing
 
 Indices and tables
 ==================
@@ -27,5 +24,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
-.. _ChatterBot Documentation: http://chatterbot.readthedocs.io/en/latest/corpus.html
